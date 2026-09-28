@@ -10,6 +10,6 @@ Check a downloaded Windows installer against the release's `SHA256SUMS.txt`, the
 
 ## Updates and support
 
-Use **Settings → About → Check for updates** in Koto, or visit the [Releases page](https://github.com/hirad-ra/Koto-Releases/releases/latest). For support or a bug report, open an [issue](https://github.com/hirad-ra/Koto-Releases/issues). Do not include private media, subtitle text, vocabulary, or logs containing personal paths without reviewing them first.
+Use **Settings → About → Check for updates** in Koto, or visit the [Releases page](https://github.com/hirad-ra/Koto-Releases/releases). For support or a bug report, open an [issue](https://github.com/hirad-ra/Koto-Releases/issues). Do not include private media, subtitle text, vocabulary, or logs containing personal paths without reviewing them first.
 
 Koto application source remains proprietary and private. This repository contains release information and, when approved, public installer assets and third-party compliance material. It is not a source-code mirror. Third-party software and dictionaries retain their own licenses; their notices are included with the application. Corresponding-source information for redistributed LGPL components will be provided with approved releases.
