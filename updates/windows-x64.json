@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "1.4.5",
+  "minimumSupportedVersion": "1.4.5",
+  "optionalMessage": "Koto now downloads missing dictionaries automatically for your subtitles.",
+  "requiredMessage": "Please update to Koto 1.4.5 or newer to continue. Older versions are no longer supported."
+}
