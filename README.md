@@ -12,7 +12,7 @@ Version 1.4.5 automatically downloads a missing dictionary for recognized subtit
 
 ## Updates and support
 
-Use **Settings → About → Check for updates**, or visit the [Releases page](https://github.com/hirad-ra/Koto-Releases/releases). Optional automatic notices can be disabled in Settings; required security/compatibility checks remain active. The public [Windows update policy](updates/windows-x64.json) currently sets both the latest and minimum supported versions to **1.4.5**. Older builds without update-policy support cannot be remotely blocked.
+Use **Settings → About → Check for updates**, or visit the [Releases page](https://github.com/hirad-ra/Koto-Releases/releases). Optional automatic notices can be disabled in Settings; required security/compatibility checks remain active. The public [Windows update policy](updates/windows-x64.json) is temporarily testing **1.4.6** as both the latest and minimum supported versions. The [Linux policy](updates/linux-x64.json) uses the same requirement. No 1.4.6 installer is published; clients with policy support remain blocked until this test is ended by lowering both policies to 1.4.5. Older builds without update-policy support cannot be remotely blocked.
 
 For support or a bug report, open an [issue](https://github.com/hirad-ra/Koto-Releases/issues). Review private media, vocabulary, subtitle text, personal paths and logs before sharing them.
 
