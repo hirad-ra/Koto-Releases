@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "latestVersion": "1.4.6",
   "minimumSupportedVersion": "1.4.6",
-  "optionalMessage": "Global update-policy test: target version 1.4.6.",
-  "requiredMessage": "Update policy test: Koto 1.4.6 is required. This app is blocked until the test policy is changed. No 1.4.6 installer is available yet."
+  "optionalMessage": "Koto 1.4.6 is available.",
+  "requiredMessage": "Please update Koto to continue."
 }
