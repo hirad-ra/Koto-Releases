@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.4.6",
-  "minimumSupportedVersion": "1.4.6",
-  "optionalMessage": "Koto 1.4.6 is available.",
+  "latestVersion": "1.5.0",
+  "minimumSupportedVersion": "1.5.0",
+  "optionalMessage": "Koto 1.5.0 is available.",
   "requiredMessage": "Please update Koto to continue."
 }
