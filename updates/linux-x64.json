@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.5.0",
+  "latestVersion": "1.6.0",
   "minimumSupportedVersion": "1.5.0",
-  "optionalMessage": "Koto 1.5.0 is available.",
+  "optionalMessage": "Koto 1.6.0 brings free account themes and achievements, with Kiwami AI and sync for eligible accounts.",
   "requiredMessage": "Please update Koto to continue."
 }
